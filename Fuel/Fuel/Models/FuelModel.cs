@@ -9,6 +9,6 @@ namespace Fuel.Models
     {
         public int Fuel { get; set; }
         public int Distance { get; set; }
-        public int AgComsumption{ get; set; }
+        public double AgComsumption{ get; set; }
     }
 }
